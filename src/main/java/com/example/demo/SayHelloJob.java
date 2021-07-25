@@ -8,7 +8,7 @@ public class SayHelloJob implements Job{
 
 	@Override
 	public void execute(JobExecutionContext context) throws JobExecutionException {
-		System.out.println("Hello World !!");
+		System.out.println("Hello JAVA World !!");
 	}
 	
 }
